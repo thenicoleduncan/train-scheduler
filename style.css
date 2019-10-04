@@ -1,0 +1,27 @@
+.bg {
+    background-color: whitesmoke;
+}
+
+.jumbotron {
+    background-color: #664444 !important;
+    font-family: 'Cinzel', serif;
+}
+
+.display-4 {
+    color: whitesmoke !important;
+}
+.card-header {
+    background-color: #664444 !important;
+    font-family: 'Cinzel', serif;
+}
+.card-body {
+    background-color: whitesmoke !important;
+}
+.btn {
+    background-color: #664444 !important;
+    font-family: 'Cinzel', serif;
+    color: whitesmoke !important;
+}
+.tHead {
+    font-family: 'Cinzel', serif;
+}
